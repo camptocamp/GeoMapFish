@@ -6,12 +6,6 @@ Each new Feature Request has to be created as a new issue, in order to be discus
 
 **Please create new issues using the template provided.**
 
-
-# Workflow
-
-The following diagram explains the decision-making and prioritization process:
-
-
 # Participating
 
 All Feature Request can be freely discussed. 
@@ -22,4 +16,10 @@ Feel free to participate in the following ways:
 - Create a well-documented issue for a new fantastic feature in GeoMapFish
 - Participate in discussions about the next features of GeoMapFish
 - Just write how interested you are in an proposed Feature
+
+# Workflow
+
+The following diagram explains the decision-making and prioritization process:
+
+![workflow](./docs/workflow.png)
 
