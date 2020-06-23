@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Who requested this new feature:**
+> *name, canton, city, company, ...*
+
 **Is your feature request related to a problem?**
 > *Yes or No*
 > *If Yes, a clear and concise description of what the problem is.*
